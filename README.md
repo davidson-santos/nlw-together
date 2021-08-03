@@ -1,2 +1,4 @@
 # nlw-together
- Aplicativo Flutter desenvolvido pela Rocketseat na Next Level Week Together para estudo da tecnologia.
+
+Repositório destinado aos estudos em programação no evento online
+Next Level Week da [Rocketseat](https://github.com/rocketseat-education)
