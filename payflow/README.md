@@ -1,16 +1,13 @@
-# payflow
+# Payflow
 
-A new Flutter project.
+Projeto Flutter desenvolvido no evento online Next Level Week Together da [Rocketseat](https://github.com/rocketseat-education)
 
-## Getting Started
+## Sobre o app
 
-This project is a starting point for a Flutter application.
+O projeto Pay Flow trata-se de um app para gerenciamento de boletos bancários,
+armazenando e identificando os códigos de barra, seja por texto ou pelo uso
+da câmera do celular.
 
-A few resources to get you started if this is your first Flutter project:
+O repositório oficial do projeto na Rocketseat pode ser acessado abaixo:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Mission: Flutter](https://github.com/rocketseat-education/nlw-06-flutter)
